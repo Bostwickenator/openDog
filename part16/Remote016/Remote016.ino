@@ -20,9 +20,9 @@ const int BUTTON5_PIN = 46;
 const int AXIS1_PIN = A0;
 const int AXIS2_PIN = A1;
 const int AXIS3_PIN = A2;
-const int AXIS4_PIN = A4;
-const int AXIS5_PIN = A5;
-const int AXIS6_PIN = A6;
+const int AXIS4_PIN = A3;
+const int AXIS5_PIN = A4;
+const int AXIS6_PIN = A5;
 
 String count;
 
